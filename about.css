@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Mohave:ital,wght@1,300&family=Young+Serif&display=swap');
+
+
+*{
+    margin: 0;
+    font-family: 'Libre Baskerville', serif;
+    padding: 0;
+}
+
+
+.heading1{
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 20px;
+
+}
+
+.images1{
+    height: 100px;
+    margin-right: 35px;
+    cursor: pointer;
+}
+
+.borders1{
+    border: 4px solid gray;
+    border-radius: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.start1{
+    margin-left: 0;
+    height: 70px;
+   
+}
+
+.maps1{
+    height: 200px;
+    width: 350px;
+}
+
+
+.about-90{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.wapper{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.parent {
+    width: 37%;
+    margin: 20px;
+    height: 280px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+
+.child{
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    transition: all 1.1s;
+    position: relative;
+}
+.parent:hover .child{
+    transform: scale(1.3);
+}
+
+.child .text p{
+    position: absolute;
+    left: 60px;
+    color: black;
+    bottom: 185px;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+.no-1{
+    text-align: center;
+    font-size: xx-large;
+    margin-left: -100px;
+}
+.text-1{
+   text-align: center;
+   font-weight: 900;
+   font-size: x-large;
+   margin-left: -100px;
+}
+.text-2{
+    text-align: center;
+    font-weight: 900;
+    font-size: x-large;
+    margin-left: -50px;
+ }
+ .text-3{
+    text-align: center;
+    font-weight: 900;
+    font-size: x-large;
+    margin-left: -120px;
+ }
+ .text-4{
+    text-align: center;
+    font-weight: 900;
+    font-size: x-large;
+    margin-left: -80px;
+ }
+
+.emoji-1{
+    font-size: x-large;
+    margin-top: 20px;
+color: yellow;
+cursor: pointer;
+}
+
+.border-1{
+    border: 8px solid gray;
+    border-radius: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#hover-1{
+    color: black;
+    cursor: pointer;
+
+}
+#hover-1:hover{
+    color: yellow;
+    transform: scale(1.1);
+    
+}
+
+
+#ppp{
+    height: 800px;
+    margin-left: 40px;
+
+
+}
+
+
+#pppp{
+    border-radius: 40%;
+    height: 250px;
+    width: 200px;
+    margin-left: 45px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+
+
+#margin-{
+    margin-top: 20px;
+   
+}
+
+
+  
+  

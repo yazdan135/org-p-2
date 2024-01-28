@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Mohave:ital,wght@1,300&family=Young+Serif&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Libre Baskerville', serif;
+}
+.start1{
+    margin-left: 0;
+    height: 70px;
+   
+}
+
+.maps1{
+    height: 200px;
+    width: 350px;
+}
+.item-1-menu{
+    text-align: center;
+    margin: 20px auto;
+}
+.item-1-menu ul li{
+    list-style: none;
+    display: inline-block;
+    border: 2px solid tomato;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: large;
+    font-weight: 500;
+    background-color: crimson;
+}
+.item-1-menu ul li:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
+#bolan img{
+    height: 250px;
+    width: 250px;
+    border: 2px solid gray;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px cyan;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.item-2-menu{
+    text-align: center;
+    margin: 20px auto;
+}
+.item-2-menu ul li{
+    list-style: none;
+    display: inline-block;
+    border: 2px solid tomato;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: large;
+    font-weight: 500;
+    background-color: crimson;
+}
+.item-2-menu ul li:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
+
+
+
+
+.item-3-menu{
+    text-align: center;
+    margin: 20px auto;
+}
+.item-3-menu ul li{
+    list-style: none;
+    display: inline-block;
+    border: 2px solid tomato;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: large;
+    font-weight: 500;
+    background-color: crimson;
+}
+.item-3-menu ul li:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
+
+
+.item-4-menu{
+    text-align: center;
+    margin: 20px auto;
+}
+.item-4-menu ul li{
+    list-style: none;
+    display: inline-block;
+    border: 2px solid tomato;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: large;
+    font-weight: 500;
+    background-color: crimson;
+}
+.item-4-menu ul li:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
